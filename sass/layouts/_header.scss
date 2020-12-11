@@ -1,0 +1,93 @@
+.header{
+    padding: 10px 0;
+    background: #181819;
+    color: #fff;
+}
+.header-box{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.header-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 8;
+
+    .header-logo--title{
+        font-family: 'SFMono';
+        font-size: 48px;
+        font-weight: 900;
+        color: #d1d1d2;
+        position: relative;
+    }
+    .header-logo--num{
+        font-family: 'SFMono';
+        font-size: 24px;
+        font-weight: 900;
+        color: #D0021B;
+        position: absolute;
+        bottom: 2px;
+        right: -8px;
+    }
+    .header-logo--text{
+        font-size: 14px;
+        font-weight: 400;
+        color: #d1d1d2;
+        text-transform: uppercase;
+        margin-left: 20px;
+        max-width: 58px;
+    }
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 9;
+
+    li{
+        margin: 0 20px;
+
+        &:last-child{
+            margin-right: 0;
+        }
+        &:first-child{
+            margin-left: 0;
+        }
+    }
+    a{
+        font-size: 18px;
+        font-weight: 500;
+        color: #F5F5F5;
+        &:hover{
+            color: #d0021b;
+        }
+    }
+}
+
+.header-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    // position: relative;
+    .search-icon,.profile-icon{
+        display: block;
+
+        .material-icons{
+            font-size: 24px;
+            color: #d1d1d2;
+        }
+    }
+    .profile-icon{
+        margin-left: 20px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    
+}

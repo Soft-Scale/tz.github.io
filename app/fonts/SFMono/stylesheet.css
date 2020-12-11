@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-Heavy.eot');
+    src: url('/app/fonts/SFMono/SFMono-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-Heavy.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-Heavy.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-BoldItalic.eot');
+    src: url('/app/fonts/SFMono/SFMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-BoldItalic.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-BoldItalic.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-Bold.eot');
+    src: url('/app/fonts/SFMono/SFMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-Bold.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-Bold.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-LightItalic.eot');
+    src: url('/app/fonts/SFMono/SFMono-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-LightItalic.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-LightItalic.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-SemiboldItalic.eot');
+    src: url('/app/fonts/SFMono/SFMono-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-SemiboldItalic.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-SemiboldItalic.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-Light.eot');
+    src: url('/app/fonts/SFMono/SFMono-Light.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-Light.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-Light.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-Semibold.eot');
+    src: url('/app/fonts/SFMono/SFMono-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-Semibold.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-Semibold.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-Regular.eot');
+    src: url('/app/fonts/SFMono/SFMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-Regular.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-Regular.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-MediumItalic.eot');
+    src: url('/app/fonts/SFMono/SFMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-MediumItalic.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-MediumItalic.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-HeavyItalic.eot');
+    src: url('/app/fonts/SFMono/SFMono-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-HeavyItalic.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-HeavyItalic.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-Medium.eot');
+    src: url('/app/fonts/SFMono/SFMono-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-Medium.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-Medium.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('/app/fonts/SFMono/SFMono-RegularItalic.eot');
+    src: url('/app/fonts/SFMono/SFMono-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('/app/fonts/SFMono/SFMono-RegularItalic.woff2') format('woff2'),
+        url('/app/fonts/SFMono/SFMono-RegularItalic.woff') format('woff'),
+        url('/app/fonts/SFMono/SFMono-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
